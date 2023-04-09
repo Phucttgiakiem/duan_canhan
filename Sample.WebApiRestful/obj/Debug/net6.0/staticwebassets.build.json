@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m1FW6B4NMu/QmdiFs5WqXT3TVsNyuxBa/AHkDgfHopY=",
+  "Source": "Sample.WebApiRestful",
+  "BasePath": "_content/Sample.WebApiRestful",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
